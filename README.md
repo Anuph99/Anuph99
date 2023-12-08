@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anuph99
-- 👀 I’m interested in python, statistics, data
-- 🌱 I’m currently learning NLP using python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI, ML, Python, Statistics
+- 🌱 I’m currently learning DS & AI
 - 📫 How to reach me anuphaval7291@gmail.com
 
 <!---
